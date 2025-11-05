@@ -1,0 +1,5 @@
+{
+  "name": "CrewAI Code Generator",
+  "description": "An application to generate a complete Python CrewAI project structure and code based on user-defined agents and tasks. It helps users by suggesting agents for specific industries and providing guidance on obtaining necessary API keys.",
+  "requestFramePermissions": []
+}
